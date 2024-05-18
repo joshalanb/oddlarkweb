@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
 [Params]
 author = "Oddlark"
-description = "Oddlark is an ultra small and agile development team based in Naarm (Melbourne) helmed by Josh Bradbury + friends with a focus on creating ‘quality oddities’ with a small scope and large impact"
+description = "Oddlark is an ultra small and experienced video game development team based in Naarm (Melbourne, Australia) with a focus on sustainably ‘creating quality oddities’ with small scope and large impact."
 logoBig = "/images/Oddlark2_Alpha.png"
 logoSmall = "/images/Oddlark2_Alpha.png"
 favicon = "favicon.ico"
