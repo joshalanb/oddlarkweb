@@ -1,0 +1,79 @@
+<!-- A partial to be overwritten by the user.
+     Simply place a custom_body.html into
+     your local /layouts/partials-directory.
+     Its content will appear before the closing </body>-tag -->
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Dangrek&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<style>
+    :root 
+    {
+      --cover-text-color: #753488;
+      --highlight: #FFC415;
+      --highlight-contrast: var(--cover-text-color);
+      --highlight-inverse: var(--cover-text-color);
+      --highlight-inverse-contrast: white;
+      --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+      --cover-title-text-shadow: white 0px 0px 7px;
+      --sticky-menu-text-color: var(--highlight);
+      --section-light-text-color: #F65680;
+      --section-light-bg-color: #f2efe8;
+      --section-dark-text-color: var(--section-light-bg-color);
+      --section-dark-bg-color: #ae3ecb;
+      --section-uni-quote: grey;
+      --section-uni-code-bg-color: #e0ded7;
+      --single-page-text-color: var(--section-light-text-color);
+      --single-page-bg-color: var(--section-light-bg-color);
+      --footer-color-background: var(--highlight);
+      --footer-color: var(--cover-text-color);
+      --ul-li-icon: fa-asterisk;
+    }
+    
+    h3
+    {
+        color: var(--highlight);
+    }
+    
+    h1, h2, h3, h4, h5, h6
+    {
+        font-family: "Sniglet", sans-serif;
+        text-shadow: -3px 3px #28243c;
+        text-align: center;
+    }
+    
+    h5, h6, strong
+    {
+        font-family: "Sniglet", sans-serif;
+        text-shadow: -1px 1px var(--highlight);
+        font-weight: 500;
+        font-style: normal;
+    }
+    
+    strong
+    {
+        text-shadow: -1px 1px var(--highlight);
+        text-emphasis: black;
+    }
+    
+    body
+    {
+        font-family: "Sniglet", sans-serif;
+    }
+        
+    .post-title
+    {
+        display: none;
+    }
+    
+    #blog-logo
+    {
+        max-height: 30rem;
+        max-width: 30rem;
+        min-width: 10rem;
+        min-height: 10rem;
+    }
+    
+img[alt=logo] { max-width: 30%; }
+</style>
+

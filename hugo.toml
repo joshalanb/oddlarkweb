@@ -1,54 +1,101 @@
-title = "Oddlark"
-baseURL = "https://oddlark.com"
-tags = ["gamedev", "game", "games", "game development", "oddlark", "odd lark", "humanoib", "spore", "indie", "game studio", 
-    "video game", "videogame", "australia", "josh bradbury"]
-languageCode = "en-US"
-theme = "osprey"
-canonifyURLS = true
-googleAnalytics = ""
-disqusShortname = "oddlark"
-disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+baseURL = "https://example.com"
 
-[Params]
-author = "Oddlark"
-description = "Oddlark is an ultra small and experienced video game development team based in Naarm (Melbourne, Australia) with a focus on sustainably ‘creating quality oddities’ with small scope and large impact."
-logoBig = "/images/Oddlark2_Alpha.png"
-logoSmall = "/images/Oddlark2_Alpha.png"
-favicon = "favicon.ico"
-opengraphImage = "/images/Oddlark2_Alpha.png"
-email = "oddlark+josh.alan.b@gmail.com"
-googleTagManager = ""
-customCSS = true
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-# Social media links in footer
-twitter = "oddlark"
+defaultContentLanguage = "en"
 
-# Copyright and theme author credit in footer
-copyright = true
-credit = false
+# The name of this wonderful theme ;-).
+theme = "hugo-scroll"
 
-# Cache busting of static resources (additional set up required)
-cacheBustCSS = true
-cacheBustJS = true
+# The browser tab name
+title = "Oddlark - Quality Oddities"
 
-# Code highlighting with highlight.js
-highlightJS = true
-highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
-highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+# In order to add version information in the page's footer set to true.
+# enableGitInfo = true
 
-# Choose either Formspree contact form or Basin contact form
-ajaxFormspree = false
-ajaxFormspreeGold = false
-ajaxBasin = "https://usebasin.com/f/85afb2fd9d9a"
+# enable emoji processing in Markdown (valid only for pure markdown content)
+enableEmoji = true
 
-# Lazy loading with lazysizes
-lazyloading = true
+# Theme-specific variables `.Site.Params.myParamName`
+[params]
 
-[[menu.main]]
-name = "About"
-url  = "/#about"
-weight = 1
-[[menu.main]]
-name = "Who?!"
-url  = "/who"
-weight = 3
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/oddlark-grad.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
+    # NOT the actual header background image, go to _index.md instead
+    images = ["images/oddlark-grad.png"]
+
+    # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
+    # Ideal images are homogenous around the centre and contrasting to the text.
+    # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
+    # see _index.md header_headline and header_subheadline
+    title_guard = false
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Oddlark - Quality Oddities"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Nutrition Coach & Chef Consultant"
+
+    # Show a menu of languages available
+    language_menu = false
+
+    # Show also a language menu item for the current language, if false only
+    # show the remaining languages
+    show_current_lang = false
+
+    # A "copyright"-line to be added at the bottom of the page.
+    # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+    copyright = "© Oddlark"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    hidedesignbyline = true
+
+    # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
+    invertSectionColors = true
+    
+    # Options used for automatic image generation. see: https://gohugo.io/content-management/image-processing/
+    image_options = "webp q90 lanczos photo"
+    
+    [params.footer]
+    # Show contact icons for email/phone (if specified) in the footer of the page
+    showContactIcons = false
+
+    # Show links indicated with footer_menu and footer_menu_title in the footer of the page
+    showFooterLinks = false
+
+    [params.meta]
+        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+
+    [[params.contacts]]
+        label = "email"
+        value = "hello@oddlark.com"
+        url = "mailto:hello@oddlark.com"
+        icon = "fa fa-envelope"
+
+    # Add additional contacts here!
+    [[params.contacts]]
+        label = "twitter"
+        value = "oddlark"
+        url = "https://x.com/oddlark"
+        icon = "fa fa-twitter"
+        
+    [[params.contacts]]
+            label = "linkedin"
+            value = "linkedin"
+            url = "https://www.linkedin.com/company/oddlark/"
+            icon = "fa fa-linkedin"
+
+# Define additional languages
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"
