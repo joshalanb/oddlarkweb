@@ -17,7 +17,7 @@
       --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
       --cover-title-text-shadow: white 0px 0px 7px;
       --sticky-menu-text-color: var(--highlight);
-      --section-light-text-color: #F65680;
+      --section-light-text-color: #E1609F;
       --section-light-bg-color: #f2efe8;
       --section-dark-text-color: var(--section-light-bg-color);
       --section-dark-bg-color: #ae3ecb;
@@ -74,6 +74,16 @@
         min-height: 10rem;
     }
     
-img[alt=logo] { max-width: 30%; }
+    img[alt=logo] 
+    { 
+        max-width: 30%;
+    }
+    img[alt=masked] 
+    {
+        mask-image: url(/images/mask.png);
+        mask-mode: match-source;
+        mask-size: 100% 100%;
+    }
+
 </style>
 
