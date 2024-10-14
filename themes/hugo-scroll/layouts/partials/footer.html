@@ -17,6 +17,10 @@
     <hr />
     {{ end }}
 
+    <section class="email">
+      <h6><i class="fa fa-envelope"></i><img src="/images/email-image.png" height=20px></h6>
+    </section>
+
     {{ if ne .Site.Params.footer.showContactIcons false }}
       <section class="icons">
         {{ range .Site.Params.contacts }}
@@ -24,7 +28,7 @@
         {{ end }}
       </section>
     {{ end }}
-
+    
     {{ with .Site.Params.copyright }}
       <section class="copyright">{{ . | safeHTML }}</section>
     {{ end }}
