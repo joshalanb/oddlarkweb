@@ -85,13 +85,13 @@ enableEmoji = true
         label = "bluesky"
         value = "oddlark"
         url = "https://bsky.app/profile/oddlark.com"
-        icon = "fa fa-share"
+        icon = "fa-brands fa-bluesky"
         
     [[params.contacts]]
             label = "linkedin"
             value = "linkedin"
             url = "https://www.linkedin.com/company/oddlark/"
-            icon = "fa fa-linkedin"
+            icon = "fa-brands fa-linkedin"
 
 # Define additional languages
 [languages]
