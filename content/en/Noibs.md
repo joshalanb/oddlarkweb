@@ -1,16 +1,19 @@
 ---
-title: "Humanoib"
+title: "Noibs - A Bud-Builder-Battler"
 weight: 98
 ---
-![Humanoib-logo.png](/images/Humanoib-logline.png)
+![Noibs-Logo.png](images/Noibs-Logo.png)
 
-![masked](/images/humanoibexample.gif)
-### ! CURRENTLY IN PRE-PRODUCTION ! <br/><br/>
+### A Casual & Creative
+![BudBuilderBattler.png](images/BudBuilderBattler.png)
+
+##### ! CURRENTLY IN DEVELOPMENT !
+![masked](images/humanoibexample.gif)
+
 ##### [Presskit + Goodies](https://drive.google.com/drive/folders/1zidCV8IT0qdyPJQIqpHSbWYummEk4De7?usp=drive_link)
 ------------------------------------
 #### Some extra details
-Humanoib is a game that explores a singular
-concept:
+Create silly little guys out of jumbles of body parts to win the approval of every Judge in the Universe!
 ##### “**Character Creation as Gameplay**”
 
 **Snap**, **Combine** and **Plop** body parts onto your creations (named **Noibs**) and send them off to compete against other weirdos in

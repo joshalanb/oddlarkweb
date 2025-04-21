@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b50e5ba-6188-4d09-98e4-7bbe19cb28a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/Noibs-Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/homepage/humanoib-brief.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/homepage/noibs-brief.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/homepage/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/homepage/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/humanoib.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/Noibs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.min.80e178188d767ed4205fe5e9f472e0a2b0751341babc14ffee6518356679784a.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.80e178188d767ed4205fe5e9f472e0a2b0751341babc14ffee6518356679784a.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/humanoib/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/script.min.4ea51c911e20b9ca348adc76af39eaa49c44ce2b16e85863bc8e37240713833c.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.min.4ea51c911e20b9ca348adc76af39eaa49c44ce2b16e85863bc8e37240713833c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/_index.scss_7bbaf99eabb468e10b793066c2709a48.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/_index.scss_7bbaf99eabb468e10b793066c2709a48.content" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2w1wIBDh3O8SRrNe2nY8IzWb3ip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b50e5ba-6188-4d09-98e4-7bbe19cb28a9" name="Changes" comment="" />
+      <created>1745222305613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745222305613</updated>
+      <workItem from="1745222306651" duration="3500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

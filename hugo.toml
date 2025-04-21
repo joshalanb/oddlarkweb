@@ -72,7 +72,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "gamedev, game, games, game development, indie games, independent, melbourne, oddlark, odd lark, humanoib, noib, spore, creature creator, indie, game studio, video game, videogame, australia, josh bradbury, kelsey gamble, quality oddities"
+        keywords = "gamedev, game, games, game development, indie games, independent, melbourne, oddlark, odd lark, humanoib, noib, noibs, spore, creature creator, indie, game studio, video game, videogame, australia, josh bradbury, kelsey gamble, felix colgrave, zoe medcraft, wombot, wombot studio, bud builder battler, quality oddities"
 
     #[[params.contacts]]
     #    label = "email"
@@ -82,10 +82,10 @@ enableEmoji = true
 
     # Add additional contacts here!
     [[params.contacts]]
-        label = "twitter"
+        label = "bluesky"
         value = "oddlark"
-        url = "https://x.com/oddlark"
-        icon = "fa fa-twitter"
+        url = "https://bsky.app/profile/oddlark.com"
+        icon = "fa fa-share"
         
     [[params.contacts]]
             label = "linkedin"
