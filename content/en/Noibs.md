@@ -4,23 +4,28 @@ weight: 98
 ---
 ![Noibs-Logo.png](images/Noibs-Logo.png)
 
-### A Casual & Creative
-![BudBuilderBattler.png](images/BudBuilderBattler.png)
-
-##### ! CURRENTLY IN DEVELOPMENT !
+##### Contact us to try the latest build of Noibs! 
+##### <a href="https://bsky.app/profile/oddlark.com"><i class="fa-brands fa-bluesky"></i></a> <a href="https://www.linkedin.com/company/oddlark/"> <i class="fa-brands fa-linkedin"></i></a>
 ![masked](images/humanoibexample.gif)
 
 ##### [Presskit + Goodies](https://drive.google.com/drive/folders/1zidCV8IT0qdyPJQIqpHSbWYummEk4De7?usp=drive_link)
-------------------------------------
-#### Some extra details
-Create silly little guys out of jumbles of body parts to win the approval of every Judge in the Universe!
-##### “**Character Creation as Gameplay**”
 
-**Snap**, **Combine** and **Plop** body parts onto your creations (named **Noibs**) and send them off to compete against other weirdos in
-“**Flesh-Child Beauty Pageants**” to gain **MAXIMUM APPROVAL** from your **Dad, The Universe**.
+------------------------------------
+### A Casual + Creative
+![BudBuilderBattler.png](images/BudBuilderBattler.png)
+
+Create **silly little guys** out of jumbles of body parts to win the approval of every **Judge** in the **Universe**!
 
 ![masked](/images/ballpit.gif)
 
-**Edit** and **Refine** your unique **Noib** to do battle against other creations from around the **Universe**, then use your winnings to purchase new body parts to further improve your little guy for the next **Contest**.
+Character creation and silliness is at the heart of **Noibs** - **Splat**, **Combine** and **Plop** body parts onto your creations to build any variety of **Noib** you can imagine!
 
-The core of the game is an accessible, console friendly indie **Creature Creator** featuring **Asynchronous Multiplayer**, **Strategic Depth** and **Procedural-ish Physics-y Slapstick Comedy**.
+![GameLoop.png](images/GameLoop.png)
+
+Compete in a series of hilarious slapstick **Challenges** against other **Noibs** in front of an increasingly fickle pantheon of **Judges**. Surviving the Finale will earn you a coveted **Badge of Approval**.
+
+![masked](images/DanceBattle.png)
+
+**Challenges** do not require any precise or complex inputs to win, only the choices you make when creating your little guys matter!
+
+
