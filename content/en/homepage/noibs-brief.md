@@ -11,7 +11,7 @@ draft: false
 # Bud ~ Builder ~ Battler
 
 ### ! CURRENTLY IN DEVELOPMENT !
-![masked](images/humanoibexample.gif)
+![masked](/images/WardrobeGif.gif)
 
 ##### [Tell me more about these Noibs!!!](Noibs)
 
