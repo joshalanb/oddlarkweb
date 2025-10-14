@@ -82,6 +82,12 @@ enableEmoji = true
 
     # Add additional contacts here!
     [[params.contacts]]
+            label = "steam"
+            value = "steam"
+            url = "https://store.steampowered.com/dev/oddlark"
+            icon = "fa-brands fa-steam"
+    
+    [[params.contacts]]
         label = "bluesky"
         value = "oddlark"
         url = "https://bsky.app/profile/oddlark.com"

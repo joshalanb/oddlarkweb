@@ -5,7 +5,7 @@ weight: 98
 ![Noibs-Logo.png](images/Noibs-Logo.png)
 
 ##### Contact us to try the latest build of Noibs! 
-##### <a href="https://bsky.app/profile/oddlark.com"><i class="fa-brands fa-bluesky"></i></a> <a href="https://www.linkedin.com/company/oddlark/"> <i class="fa-brands fa-linkedin"></i></a>
+##### <a href="https://store.steampowered.com/dev/oddlark"> <i class="fa-brands fa-steam"></i></a>     <a href="https://bsky.app/profile/oddlark.com"><i class="fa-brands fa-bluesky"></i></a>     <a href="https://www.linkedin.com/company/oddlark/"> <i class="fa-brands fa-linkedin"></i></a>
 
 ![masked](/images/WardrobeGif.gif)
 

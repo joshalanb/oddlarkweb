@@ -4,6 +4,6 @@ weight: 1
 header_menu: false
 ---
 
-### Creating Quality Oddities
-
-**Oddlark** is an ultra-small, collaborative and highly effective independent game developer that specializes in creating ‘**Quality Oddities**’ with considered scope and **Oversized Impact**!
+**Oddlark** is an ultra-small and collaborative independent game developer that specializes in creating ‘**Quality Oddities**’ with considered scope and **oversized impact**!
+###### Follow us on Steam: 
+##### <a href="https://store.steampowered.com/dev/oddlark"> <i class="fa-brands fa-steam"></i></a>
