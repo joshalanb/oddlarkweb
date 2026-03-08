@@ -1,5 +1,5 @@
 ---
-title: "Noibs - A Bud-Builder-Battler"
+title: "Noibs - cozy bud-builder"
 weight: 98
 ---
 ![Noibs-Logo.png](images/Noibs-Logo.png)
