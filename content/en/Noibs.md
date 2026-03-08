@@ -9,20 +9,16 @@ weight: 98
 
 ![masked](/images/WardrobeGif.gif)
 
-##### [Presskit + Goodies](https://drive.google.com/drive/folders/1zidCV8IT0qdyPJQIqpHSbWYummEk4De7?usp=drive_link)
-
 ------------------------------------
-### A Casual + Creative
-![BudBuilderBattler.png](images/BudBuilderBattler.png)
 
-Character creation and silliness is at the heart of **Noibs** - **splat**, **combine** and **plop** body parts onto your creations to build any variety of **Noib** you can imagine!
+A creative toybox world where you **create**, **care for** and **share** your very own hand-crafted neighborhood of wobbly little guys called... **Noibs**!
 
 ![masked](/images/Hub.gif)
 
-Create, customize and grow a cozy town to greet visitors from around the **Universe**!
+Gather resources, fulfill your **Noibs dreams** and **level up** to and unlock hundreds of quirky parts and town objects to play with.
 
 ![masked](/images/TalentShow.gif)
 
-Attend talent show battles against other player's **Noibs** for the audience's **Approval**!
+Attend talent shows against other player's **Noibs** to truly see who is the best!!
 
 

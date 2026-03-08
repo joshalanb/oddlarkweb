@@ -8,10 +8,10 @@ draft: false
 ---
 ![Noibs-Logo.png](images/Noibs-Logo.png)
 
-# Bud ~ Builder ~ Battler
+## create, care for and share
+### THESE WOBBLY LITTLE GUYS!
 
-### ! CURRENTLY IN DEVELOPMENT !
 ![masked](/images/WardrobeGif.gif)
 
-##### [Tell me more about these Noibs!!!](Noibs)
+##### [Tell me more about Noibs!!!](Noibs)
 
