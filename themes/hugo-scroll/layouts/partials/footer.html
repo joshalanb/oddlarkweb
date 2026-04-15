@@ -3,7 +3,13 @@
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 
 <footer class="site-footer">
+  
   <div class="inner">
+    <section class="country">
+      Oddlark makes stuff on the unceded lands of the Wurundjeri and Bunurong People of the Kulin Nation. We acknowledge the Traditional Custodians of the lands and waters where we live, create and play + pay our respects to Elders past, present and emerging.
+    </section>
+    <br>
+    
     {{ if ne .Site.Params.footer.showFooterLinks false }}
     <section class="links">
       <ol>

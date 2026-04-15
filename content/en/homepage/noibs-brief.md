@@ -11,7 +11,8 @@ draft: false
 ## create, care for and share
 ### THESE WOBBLY LITTLE GUYS!
 
-![masked](/images/WardrobeGif.gif)
+[![masked](/images/WardrobeGif.gif)](Noibs)
 
-##### [Tell me more about Noibs!!!](Noibs)
+## **follow development here --> <a href="https://discord.gg/7hpMTtMPHC"> <i class="fa-brands fa-discord"></i></a>**
+##### _[Tell me more about Noibs!!!](Noibs)_
 

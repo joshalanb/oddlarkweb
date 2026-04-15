@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b50e5ba-6188-4d09-98e4-7bbe19cb28a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/Noibs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/Noibs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/homepage/noibs-brief.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/homepage/noibs-brief.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/noibs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/noibs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +41,10 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1773187216601" />
-    <option name="spentUsd" value="0.00947425" />
+    <option name="spentUsd" value="0.026783498" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="9" />
+    <option name="suspendCountdown" value="6" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +57,7 @@
       <workItem from="1745222306651" duration="7410000" />
       <workItem from="1760146387484" duration="1753000" />
       <workItem from="1760404886688" duration="962000" />
-      <workItem from="1772944619186" duration="1123000" />
+      <workItem from="1772944619186" duration="3040000" />
     </task>
     <servers />
   </component>

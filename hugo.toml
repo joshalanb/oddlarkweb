@@ -72,7 +72,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "gamedev, game, games, game development, indie games, independent, melbourne, oddlark, odd lark, humanoib, noib, noibs, spore, creature creator, indie, game studio, video game, videogame, australia, josh bradbury, kelsey gamble, felix colgrave, zoe medcraft, wombot, wombot studio, bud builder battler, quality oddities"
+        keywords = "gamedev, game, games, game development, indie games, independent, melbourne, oddlark, odd lark, humanoib, noib, noibs, spore, creature creator, character creator, indie, game studio, video game, videogame, australia, melbourne, josh bradbury, joshua bradbury, kelsey gamble, felix colgrave, zoe medcraft, wombot, wombot studio, bud builder battler, quality oddities, cozy, goo, little guys, physics"
 
     #[[params.contacts]]
     #    label = "email"
